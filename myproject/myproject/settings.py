@@ -20,7 +20,8 @@ mongoengine.connect(
     db='testdb',
 
     host='mongodb+srv://praneeth24vadada:praneeth24vadada@cluster0.tvtrhku.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    
+    username="praneethvadada24",
+    password="praneethvadada24",
     authentication_source="admin"
 )
 
